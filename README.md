@@ -5,10 +5,12 @@ The purpose of this project is to use deep-learning neural networks with the Ten
 We use the following methods for the analysis:
 
 1.preprocessing the data for the neural network model,
+
 2.compile, train and evaluate the model,
+
 3. optimize the model.
 
-Results:
+# Results:
 ## Data Preprocessing
 
 . The columns EIN and NAME are identification information and have been removed from the input data.
